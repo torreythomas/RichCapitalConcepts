@@ -50,3 +50,26 @@ list-style-type: none;
     font-size: 1.5em;
 }
 
+
+/* Responsive design code section. We are going to create a responsive drop down menu that is only visible on
+smaller screens. */
+
+@media only screen and (min-width: 320px) and (max-width: 479px){ 
+    .navigation-items-container {
+        display: none;
+        
+       }
+      
+ }
+
+@media only screen and (min-width: 480px) and (max-width: 767px){ 
+
+ }
+
+@media only screen and (min-width: 768px) and (max-width: 991px){ 
+
+ }
+
+@media only screen and (min-width: 992px){ 
+
+ }
