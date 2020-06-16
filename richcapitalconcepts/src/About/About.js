@@ -5,7 +5,7 @@ import './About.css';
 function About() {
     return (
         <div id="about">
-            Hey
+            Heyyyy
         </div>
     )
 };
