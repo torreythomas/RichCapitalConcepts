@@ -4,7 +4,15 @@
    margin: 0;
    box-sizing: border-box;
    width: 100vw;
-   height: 100vh;
+   height: 100%;
+   position: absolute;
+   top:0;
+   left:0;
+   background: url(./images/charity-stock-photo.jpeg) no-repeat center center fixed; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
  }
 
 
