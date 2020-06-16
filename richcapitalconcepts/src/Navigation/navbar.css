@@ -5,6 +5,8 @@
     top:0;
     left:0;
     background-color: black;
+    animation: bounce; /* referring directly to the animation's @keyframe declaration */
+  animation-duration: 2s;
 }
 
 .navigation-items-container {
